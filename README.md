@@ -1,22 +1,22 @@
 <h1>Hardcoded telnet login\password in Chinese DVR, like Dahua, RVI.</h1>
 
 <br/>Also, it can be rebranded and sell under a different name.
-
-Nmap report looks interesting:
-Nmap scan report for 192.168.100.15
-Host is up (0.0050s latency).
-Not shown: 65527 closed ports
-
-PORT      STATE    SERVICE        VERSION
-
-23/tcp    open     telnet         BusyBox telnetd
-81/tcp    open     http           uc-httpd 1.0.0
-445/tcp   filtered microsoft-ds
-4090/tcp  open     ssl/omasgport?
-9527/tcp  open     unknown
-9528/tcp  open     unknown
-34567/tcp open     dhanalakshmi?
-34599/tcp open     unknown
+<br/>
+<br/>Nmap report looks interesting:
+<br/>Nmap scan report for 192.168.100.15
+<br/>Host is up (0.0050s latency).
+<br/>Not shown: 65527 closed ports
+<br/>
+<br/>PORT      STATE    SERVICE        VERSION
+<br/>
+<br/>23/tcp    open     telnet         BusyBox telnetd
+<br/>81/tcp    open     http           uc-httpd 1.0.0
+<br/>445/tcp   filtered microsoft-ds
+<br/>4090/tcp  open     ssl/omasgport?
+<br/>9527/tcp  open     unknown
+<br/>9528/tcp  open     unknown
+<br/>34567/tcp open     dhanalakshmi?
+<br/>34599/tcp open     unknown
 
 Device type: WAP
 Running: Linux 2.4.X
