@@ -1,4 +1,4 @@
-#Hardcoded telnet login\password in Chinese DVR, like Dahua, RVI.</h1>
+# Hardcoded telnet login\password in Chinese DVR, like Dahua, RVI.</h1>
 [English](README.md)[Русский](README-ru.md)
 Also, it can be rebranded and sell under a different name.
 Nmap report looks interesting:
