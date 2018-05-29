@@ -1,5 +1,5 @@
 # Hardcoded telnet login\password in Chinese DVR, like Dahua, RVI.
-[English](README.md) [Русский](README-ru.md)
+[English](README.md) [Русский](README.ru.md)
 
 Also, it can be rebranded and sell under a different name.
 
