@@ -10,12 +10,12 @@
 <br/>PORT      STATE    SERVICE        VERSION
 <br/>
 <br/>23/tcp    open     telnet         BusyBox telnetd
-<br/>81/tcp    open     http           uc-httpd 1.0.0
+<br/>81/tcp    open     http           uc-httpd 1.0.0 #Web-ui, You can get guest access with guest\<empty> credentials
 <br/>445/tcp   filtered microsoft-ds
 <br/>4090/tcp  open     ssl/omasgport?
 <br/>9527/tcp  open     unknown
 <br/>9528/tcp  open     unknown
-<br/>34567/tcp open     dhanalakshmi?
+<br/>34567/tcp open     dhanalakshmi? #This port using for remote veiw in CMS
 <br/>34599/tcp open     unknown
 <br/>
 <br/>Device type: WAP
