@@ -1,5 +1,5 @@
 # Hardcoded логин\пароль от telntet в китайских DVR, таких Dahua, RVI.
-[English](README.md)[Русский](README-ru.md)
+[English](README.md) [Русский](README.ru.md)
 
 Так же они могут в продаже под другими брендами.
 
