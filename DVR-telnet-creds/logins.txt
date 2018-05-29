@@ -1,4 +1,3 @@
-#DVR logins list
 admin
 root
 guest
