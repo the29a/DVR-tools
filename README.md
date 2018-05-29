@@ -1,7 +1,8 @@
-# Hardcoded telnet login\password in Chinese DVR, like Dahua, RVI.</h1>
+# Hardcoded telnet login\password in Chinese DVR, like Dahua, RVI.
 [English](README.md) [Русский](README-ru.md)
 
 Also, it can be rebranded and sell under a different name.
+
 Nmap report looks interesting:
 ```
 Nmap scan report for 192.168.100.15
@@ -25,9 +26,9 @@ OS CPE: cpe:/o:linux:linux_kernel:2.4.36
 OS details: DD-WRT v24-sp1 (Linux 2.4.36)
 Network Distance: 5 hops
 Service Info: Host: LocalHost
-
-And, with ncrack i "recover" hardcored telnet creds.
 ```
+And, with ncrack i "recover" hardcoded telnet creds.
+
 ```
 ncrack 192.168.100.15:23 -U logins.txt -P passwords.txt
 Starting Ncrack 0.6 ( http://ncrack.org ) at 2018-05-26 13:06
