@@ -1,12 +1,12 @@
-Hardcoded telnet login\password in Chinese DVR, like Dahua, RVI.
+<h1>Hardcoded telnet login\password in Chinese DVR, like Dahua, RVI.</h>
 
-Also, it can be rebranded and sell under a different name.
-
+<br/>Also, it can be rebranded and sell under a different name.
+<p>
 Nmap report looks interesting:
 Nmap scan report for 192.168.100.15
 Host is up (0.0050s latency).
 Not shown: 65527 closed ports
-
+</p>
 PORT      STATE    SERVICE        VERSION
 
 23/tcp    open     telnet         BusyBox telnetd
