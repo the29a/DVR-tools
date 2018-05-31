@@ -38,7 +38,15 @@ Ncrack done: 1 service scanned in 27.06 seconds.
 Ncrack finished.
 ```
 Web-ui configuration files are stored in /mnt/mtd/Config/, but i did not understand password hash in file Account1.
-Also, in my case sed did not work. 
+Also, in my case sed did not work.
 Empty password hash - tlJwpbo6.
 
-Still work on this.
+Some updates.  
+This credetials hardcoded in Web-ui.
+
+
+|  login   | password |
+|----------| ---------|
+| default  | OxhlwSG8 |
+| default  | tlJwpbo6 |
+| default  | S2fGqNFs |
